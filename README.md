@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-A test
+Another test.
